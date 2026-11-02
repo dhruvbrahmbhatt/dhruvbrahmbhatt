@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dhruv Brahmbhatt 👋
+### Senior Fullstack PHP / Laravel & WordPress Developer (10+ Years Experience)
 
-<!--
-**dhruvbrahmbhatt/dhruvbrahmbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Available immediately for contract roles, custom application architecture, complex API integrations, and modernizing legacy codebases.
 
-Here are some ideas to get you started:
+## 🛠️ Core Expertise
+- **Backend Frameworks:** PHP, Laravel, Livewire, RESTful APIs, MVC Architecture
+- **CMS & E-commerce:** WordPress (Custom Theme & Plugin Development), WooCommerce
+- **Frontend & Styling:** JavaScript, Blade, Tailwind CSS, SCSS, HTML5
+- **Databases & DevOps:** MySQL, PostgreSQL, Git Workflow, Server Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Connect
+- 📧 Email: dhruvbrahmbhatt5@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dhruv-brahmbhatt-wordpress/
